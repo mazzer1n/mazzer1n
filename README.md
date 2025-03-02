@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+![](github-contribution-grid-snake-dark.svg)
 <!--
 **mazzer1n/mazzer1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
