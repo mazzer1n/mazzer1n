@@ -1,13 +1,14 @@
 ## Languages and Tools
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Spring](https://img.icons8.com/fluency/48/000000/spring-logo.png)
-![Lombok](https://img.icons8.com/ios/50/000000/lombok.png)
-![PostgreSQL](https://img.icons8.com/ios/50/000000/postgresql.png)
-![Swagger](https://img.icons8.com/ios/50/000000/swagger.png)
-![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
-![Apache Tomcat](https://img.icons8.com/ios/50/000000/apache-tomcat.png)
-![Maven](https://img.icons8.com/ios/50/000000/apache-maven.png)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-2C2C2C?style=for-the-badge&logo=lombok&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+
 ## Hi there 👋
 ![](github-contribution-grid-snake-dark.svg)
 <!--
