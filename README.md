@@ -1,3 +1,13 @@
+## Languages and Tools
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Spring](https://img.icons8.com/fluency/48/000000/spring-logo.png)
+![Lombok](https://img.icons8.com/ios/50/000000/lombok.png)
+![PostgreSQL](https://img.icons8.com/ios/50/000000/postgresql.png)
+![Swagger](https://img.icons8.com/ios/50/000000/swagger.png)
+![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png)
+![Apache Tomcat](https://img.icons8.com/ios/50/000000/apache-tomcat.png)
+![Maven](https://img.icons8.com/ios/50/000000/apache-maven.png)
 ## Hi there 👋
 ![](github-contribution-grid-snake-dark.svg)
 <!--
