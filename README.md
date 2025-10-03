@@ -10,7 +10,7 @@
 ![Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ## Hi there 👋
-![](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyZTA4bHNzdzJuMDN6ZWM1NmE5NzBmanAxYXRldXVqY29md3dvYndndSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2YHdXovMSv1NtO6V4n/giphy.gif)
+![](github-contribution-grid-snake-dark.svg)
 <!--
 **mazzer1n/mazzer1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
